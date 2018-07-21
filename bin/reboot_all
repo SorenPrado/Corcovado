@@ -1,4 +1,3 @@
-ssh pi@pi1 'sudo reboot'
 ssh pi@pi2 'sudo reboot'
 ssh pi@pi3 'sudo reboot'
 ssh pi@pi4 'sudo reboot'
