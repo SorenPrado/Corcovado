@@ -1,4 +1,3 @@
-ssh pi@pi1 'sudo poweroff'
 ssh pi@pi2 'sudo poweroff'
 ssh pi@pi3 'sudo poweroff'
 ssh pi@pi4 'sudo poweroff'
