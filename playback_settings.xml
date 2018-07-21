@@ -2,17 +2,136 @@
     <display>
         <type>master</type>
         <hostname>pi1</hostname>
-        <filename>/home/pi/video/master.mov</filename>
+        <filename>/home/pi/FILME.mp4</filename>
     </display>
     <display>
         <type>slave</type>
         <hostname>pi2</hostname>
-        <filename>/home/pi/video/slave1.mov</filename>
+        <filename>/home/pi/FILME.mp4</filename>
     </display>
     <display>
         <type>slave</type>
         <hostname>pi3</hostname>
-        <filename>/home/pi/video/slave2.mov</filename>
+        <filename>/home/pi/FILME.mp4</filename>
+    </display>
+    <display>
+        <type>slave</type>
+        <hostname>pi4</hostname>
+        <filename>/home/pi/FILME.mp4</filename>
+    </display>
+    <display>
+        <type>slave</type>
+        <hostname>pi5</hostname>
+        <filename>/home/pi/FILME.mp4</filename>
+    </display>
+    <display>
+        <type>slave</type>
+        <hostname>pi6</hostname>
+        <filename>/home/pi/FILME.mp4</filename>
+    </display>
+    <display>
+        <type>slave</type>
+        <hostname>pi7</hostname>
+        <filename>/home/pi/FILME.mp4</filename>
+    </display>
+    <display>
+        <type>slave</type>
+        <hostname>pi8</hostname>
+        <filename>/home/pi/FILME.mp4</filename>
+    </display>
+    <display>
+        <type>slave</type>
+        <hostname>pi9</hostname>
+        <filename>/home/pi/FILME.mp4</filename>
+    </display>
+    <display>
+        <type>slave</type>
+        <hostname>pi10</hostname>
+        <filename>/home/pi/FILME.mp4</filename>
+    </display>
+    <display>
+        <type>slave</type>
+        <hostname>pi11</hostname>
+        <filename>/home/pi/FILME.mp4</filename>
+    </display>
+    <display>
+        <type>slave</type>
+        <hostname>pi12</hostname>
+        <filename>/home/pi/FILME.mp4</filename>
+    </display>
+    <display>
+        <type>slave</type>
+        <hostname>pi13</hostname>
+        <filename>/home/pi/FILME.mp4</filename>
+    </display>
+    <display>
+        <type>slave</type>
+        <hostname>pi14</hostname>
+        <filename>/home/pi/FILME.mp4</filename>
+    </display>
+    <display>
+        <type>slave</type>
+        <hostname>pi15</hostname>
+        <filename>/home/pi/FILME.mp4</filename>
+    </display> <display>
+        <type>slave</type>
+        <hostname>pi16</hostname>
+        <filename>/home/pi/FILME.mp4</filename>
+    </display>
+    <display>
+        <type>slave</type>
+        <hostname>pi17</hostname>
+        <filename>/home/pi/FILME.mp4</filename>
+    </display>
+    <display>
+        <type>slave</type>
+        <hostname>pi18</hostname>
+        <filename>/home/pi/FILME.mp4</filename>
+    </display>
+    <display>
+        <type>slave</type>
+        <hostname>pi19</hostname>
+        <filename>/home/pi/FILME.mp4</filename>
+    </display>
+    <display>
+        <type>slave</type>
+        <hostname>pi20</hostname>
+        <filename>/home/pi/FILME.mp4</filename>
+    </display>
+    <display>
+        <type>slave</type>
+        <hostname>pi21</hostname>
+        <filename>/home/pi/FILME.mp4</filename>
+    </display>
+    <display>
+        <type>slave</type>
+        <hostname>pi22</hostname>
+        <filename>/home/pi/FILME.mp4</filename>
+    </display>
+    <display>
+        <type>slave</type>
+        <hostname>pi23</hostname>
+        <filename>/home/pi/FILME.mp4</filename>
+    </display>
+    <display>
+        <type>slave</type>
+        <hostname>pi24</hostname>
+        <filename>/home/pi/FILME.mp4</filename>
+    </display>
+    <display>
+        <type>slave</type>
+        <hostname>pi25</hostname>
+        <filename>/home/pi/FILME.mp4</filename>
+    </display>
+    <display>
+        <type>slave</type>
+        <hostname>pi26</hostname>
+        <filename>/home/pi/FILME.mp4</filename>
+    </display>
+    <display>
+        <type>slave</type>
+        <hostname>pi27</hostname>
+        <filename>/home/pi/FILME.mp4</filename>
     </display>
 </displays>
 <settings>
